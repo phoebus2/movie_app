@@ -6,11 +6,9 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
     "prop-type": "0.0.1",
-<<<<<<< HEAD
     "prop-types": "^15.7.2",
-=======
->>>>>>> 46f99bf3ace0b2e25909c9a1bfe4869ba90b0b04
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
