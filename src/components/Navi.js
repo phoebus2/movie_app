@@ -1,6 +1,6 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import "../components/Navi.css";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../components/Navi.css';
 
 function Navi() {
     return (
@@ -8,7 +8,7 @@ function Navi() {
             <Link to="/">home</Link>
             <Link to="/about">about</Link>
         </div>
-    )
+    );
 }
 
 export default Navi;
